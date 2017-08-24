@@ -1,0 +1,25 @@
+1.   git init
+2.   git config --global user.email "327132567@qq.com"
+3.   git config --global user.name  "hitybl"
+4.   echo "This is a simple practise" > readme.txt
+5.   git status
+6.   git add .
+7.   git status
+8.   git commit -m "This is my first commit via Git!"
+
+
+
+
+git remote add origin  https://github.com/hitybl/ARM_Study.git
+
+git push -u origin master
+
+
+
+
+git clone https://github.com/nongshuqiner/playgit.git
+
+git add .
+git commit -a
+
+git push
